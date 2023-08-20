@@ -3,6 +3,7 @@ An enchanting Recurrent Neural Network (RNN) model designed to generate captivat
 
 https://github.com/SivaVimel/AI-Poem-Generator-RNN/assets/87802556/cc2e0ea0-0321-4233-b614-653ea8b3d33d
 
+Explanation : https://youtu.be/Fzb0nrXMRDA
 ---
 
 Ladies and gentlemen,
